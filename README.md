@@ -121,7 +121,9 @@ EC2 Instance → CloudWatch Metric → CloudWatch Alarm → SNS Topic → Email 
 
 ## Author
 
-**Rupesh Sonawane**
+**Aditya Joshi**
 
-- GitHub: https://github.com/rupeshsonawane0012
-- LinkedIn: https://linkedin.com/in/rupesh-sonawane12/
+- GitHub: https://github.com/Aditya28200
+- LinkedIn: www.linkedin.com/in/aditya-joshi28
+
+
